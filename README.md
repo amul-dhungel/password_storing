@@ -5,7 +5,7 @@ This is password storing app,where you can add your username and password simply
 
 <img src = "Screenshots/adding.JPG">
 
-<img src = "Screenshots/adddsection.JPG">
+<img src = "Screenshots/addded.JPG">
 
 
 
