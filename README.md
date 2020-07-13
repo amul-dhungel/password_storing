@@ -1,6 +1,13 @@
 # passcrypt
 This is password storing app,where you can add your username and password simply.
 
+<img src = "Screenshots/addsection.JPG">
+
+<img src = "Screenshots/adding.JPG">
+
+<img src = "Screenshots/.JPG">
+
+
 
 
 ## Getting Started
