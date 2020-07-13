@@ -1,6 +1,7 @@
 # passcrypt
+This is password storing app,where you can add your username and password simply.
 
-A new Flutter project.
+
 
 ## Getting Started
 
